@@ -1,0 +1,40 @@
+'OOPS USING JAVA'
+class
+objects
+inheritances
+polymorphism
+encapsulation
+abstraction
+data binding & sharing
+interface
+------------------------
+object oriented designs:-
+i)  coupling
+ii) cohesion
+iii)composition
+iv) aggregation
+v)  association
+------------------------
+classes:-
+-pojo     class
+-abstract class
+-static   class
+-singleton class
+-final     class
+-concrete  class
+-inner     class
+
+"Final" keyword is a fixed value it cannot be changed.
+-final class cannot be inherited
+-extends function cannot be used.
+-static class can only be created inside another class(nested class)
+-static variable can be accessed inside nested class also
+
+Inner class:-
+-local inner class
+-anonymous inner class
+-class without a name
+
+Concrete class:-
+-no abstract method
+-a class only if all the variables and methods are utilized properly
